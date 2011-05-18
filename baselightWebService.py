@@ -17,7 +17,6 @@ urls = 	(
 		'/', 'Index',
 		)
 
-
 class Index( object ):
 	def GET( self ):
 		global pids
